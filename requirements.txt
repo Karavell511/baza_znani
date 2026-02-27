@@ -1,0 +1,7 @@
+aiogram==3.13.1
+SQLAlchemy==2.0.36
+aiosqlite==0.20.0
+pydantic==2.9.2
+pydantic-settings==2.5.2
+g4f==0.3.2.2
+python-multipart==0.0.12
